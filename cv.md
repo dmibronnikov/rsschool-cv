@@ -2,7 +2,11 @@
 ## Subheader
 
 ---
-_should be cursive_
+
+_should be italics_
+
 __this is bold text__
-___and this is bold cursive___
+
+___and this is bold italics___
+
 ---
